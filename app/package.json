@@ -1,0 +1,11 @@
+{
+  "name": "chat-js",
+  "version": "1.0.0",
+  "description": "Chat with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgy Schukin",
+  "license": "ISC"
+}

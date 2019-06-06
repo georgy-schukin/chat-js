@@ -1,3 +1,5 @@
+'use strict';
+
 process.on("message", function(data) {
 	console.log("Child got message: " + data);
 	var result = data;
